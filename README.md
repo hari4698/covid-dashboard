@@ -10,3 +10,4 @@ Covid Dashboard
 ## Versions used:
 - MongoDB: 4.4.4
 - NextJS
+- NodeJS: 14.15.3
