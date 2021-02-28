@@ -6,3 +6,7 @@ Covid Dashboard
 - James Vasanth
 - Hariharan Sreenivas
 - Askhay Swaminathan
+
+## Versions used:
+- MongoDB: 4.4.4
+- NextJS
