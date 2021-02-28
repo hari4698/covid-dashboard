@@ -1,5 +1,4 @@
 # covid-dashboard
-Covid Dashboard
 
 
 ## Project by:
